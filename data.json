@@ -1,0 +1,172 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Manikanta Revuri",
+			"tz": "Asia/Telangana",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Aug 07 2020  5:33PM",
+					"end_time": "Aug 07 2020 8:02PM"
+                },
+                {
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Aug 7 2020  11:11AM",
+					"end_time": "Aug 7 2020 2:00PM"
+				},
+				{
+					"start_time": "Aug 7 2020  5:33PM",
+					"end_time": "Aug 7 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 8 2020  5:13PM",
+					"end_time": "Aug 8 2020 5:20PM"
+				},
+                {
+					"start_time": "Aug 8 2020  5:33PM",
+					"end_time": "Aug 8 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 9 2020  8:13PM",
+					"end_time": "Aug 9 2020 9:20PM"
+                },
+                {
+					"start_time": "Aug 9 2020  3:13PM",
+					"end_time": "Aug 9 2020 4:20PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Karthik Revuri",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 7 2020  11:18AM",
+					"end_time": "Aug 7 2020 2:00PM"
+				},
+				{
+					"start_time": "Aug 7 2020  7:00PM",
+					"end_time": "Aug 7 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 8 2020  5:33PM",
+					"end_time": "Aug 8 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 8 2020  5:33PM",
+					"end_time": "Aug 8 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 9 2020  1:13PM",
+					"end_time": "Aug 9 2020 2:20PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "",
+			"tz": "",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 8 2020  5:15PM",
+					"end_time": "Aug 8 2020 9:02PM"
+                },
+                {
+					"start_time": "Aug 9 2020  1:13PM",
+					"end_time": "Aug 9 2020 2:20PM"
+				}
+			]
+        },
+        {
+			"id": "W07QCRPA4",
+			"real_name": "Sahasra Muluka",
+			"tz": "Telangana/India",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+                },
+                {
+					"start_time": "Aug 7 2020  5:13PM",
+					"end_time": "Aug 7 2020 5:20PM"
+                },
+                {
+					"start_time": "Aug 7 2020  7:13PM",
+					"end_time": "Aug 7 2020 8:20PM"
+				},
+				{
+					"start_time": "Aug 8 2020  5:33PM",
+					"end_time": "Aug 8 2020 8:02PM"
+                },
+                {
+					"start_time": "Aug 9 2020  1:13PM",
+					"end_time": "Aug 9 2020 2:20PM"
+				}
+			]
+		}
+	]
+}
