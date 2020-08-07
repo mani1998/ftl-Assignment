@@ -1,3 +1,10 @@
 # ftl-Assignment
 
-Assignment is hosting at https://ftl-assignment.web.app 
+Assignment can be accessed at https://ftl-assignment.web.app 
+
+# libraries-used:
+  -react
+  -react-datepicker
+  -react-bootstrap
+  -firebase
+
